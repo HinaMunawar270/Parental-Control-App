@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parental Watch+</string>
+    <string name="id" translatable="false">487946012349-brimdf043dkkn6de7uspdv91mo7rc9s0.apps.googleusercontent.com</string>
+    <string name="parent_name">والد کا نام</string>
+    <string name="login_button">لاگ ان</string>
+    <string name="forgot_your_password">کیا آپ نے اپنا پاسورڈ بھول گئے ہیں؟</string>
+    <string name="or">یا</string>
+    <string name="email_address">ای میل پتہ</string>
+    <string name="name">نام</string>
+    <string name="password">پاسورڈ</string>
+    <string name="sign_up">سائن اپ کریں</string>
+    <string name="sign_up_here">یہاں سائن اپ کریں</string>
+    <string name="parent_email">والدین کا ای میل پتہ</string>
+    <string name="enter_your_email_address">براہ کرم اپنا ای میل پتہ داخل کریں تاکہ آپ پاسورڈ ری سیٹ کرنے کی درخواست دے سکیں۔</string>
+    <string name="your_email">آپ کا ای میل</string>
+    <string name="child_name">بچے کا نام</string>
+    <string name="activity_log">سرگرمی لاگ</string>
+    <string name="apps">ایپز</string>
+    <string name="location">مقام</string>
+    <string name="child_app_name">ایپ کا نام</string>
+    <string name="this_app_is_blocked_by_your_parents">آپ کے والدین نے روک دی ہے</string>
+    <string name="web_filter" translatable="false">ویب فلٹر</string>
+    <string name="select_geofence_s_center">مرکز منتخب کریں</string>
+    <string name="diameter_in_meters">قطر میں میٹر</string>
+    <string name="device_admin_description">پیرنٹل واچ+ کو آلہ کو قفل کرنے کی اجازت دیں</string>
+    <string name="device_admin" translatable="false">پیرنٹل واچ+</string>
+    <string name="device_admin_explanation">آلہ کو قفل کرنے کے لئے پیرنٹل واچ+ کو آلہ کا ایڈمن بنانے کی ضرورت ہوتی ہے</string>
+    <string name="device_admin_enabled">آلہ کا ایڈمن موجود ہے</string>
+    <string name="device_admin_disabled">آلہ کا ایڈمن غیر فعال ہے</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="phone_unlocked">فون کھلا ہوا ہے</string>
+    <string name="phone_locked">فون بند ہوا ہے</string>
+    <string name="lock_timer_set_after">فون کو بند کر دیا جائے گا بعد میں</string>
+    <string name="hours">گھنٹے</string>
+    <string name="web_filter_disabled" translatable="false">ویب فلٹر غیر فعال ہے</string>
+    <string name="web_filter_enabled" translatable="false">ویب فلٹر فعال ہے</string>
+    <string name="hh">گھنٹے</string>
+    <string name="two_dots">:</string>
+    <string name="mm">منٹ</string>
+    <string name="and">اور</string>
+    <string name="minutes">منٹ</string>
+    <string name="maximum_is_23_hours">منٹ داخل کریں، زیادہ سے زیادہ 23 گھنٹے ہوسکتے ہیں</string>
+    <string name="maximum_is_59_minutes">منٹ داخل کریں، زیادہ سے زیادہ 59 منٹ ہوسکتے ہیں</string>
+    <string name="enter_a_valid_number">ایک درست نمبر داخل کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="canceled">منسوخ</string>
+    <string name="lock_appname" translatable="false">اپلیکیشن کو بند کریں</string>
+    <string name="remember_me">مجھے یاد رکھیں</string>
+    <string name="authentication_failed">تصدیق نامہ ناکام</string>
+    <string name="authentication_succeeded">تصدیق نامہ کامیاب</string>
+    <string name="enter_valid_email">ایک درست ای میل داخل کریں</string>
+    <string name="email_isnt_registered">ای میل رجسٹر نہیں ہوا</string>
+    <string name="wrong_password">غلط پاسورڈ</string>
+    <string name="loading">لوڈ ہورہا ہے...</string>
+    <string name="enter_your_password">اپنا پاسورڈ داخل کریں</string>
+    <string name="this_email_isnt_registered_as_parent">یہ ای میل والدین کے طور پر رجسٹر نہیں ہوا</string>
+    <string name="verification_email_sent_it_may_be_within_your_drafts">تصدیقی ای میل بھیج دی گئی ہے، یہ شاید آپ کے ڈرافٹس میں ہو</string>
+    <string name="email_is_already_in_use">ای میل پہلے ہی استعمال میں ہے</string>
+    <string name="weak_password">کمزور پاسورڈ</string>
+    <string name="sign_up_falied">سائن اپ ناکام ہوا</string>
+    <string name="no_kids_added_yet">ابھی تک کوئی بچہ شامل نہیں کیا گیا</string>
+    <string name="back">واپس</string>
+    <string name="next">آگے</string>
+    <string name="permission_explanation">اجازت کی وضاحت</string>
+    <string name="permission_explanation_main">تاکہ Parental Watch+ کو صحیح طریقے سے کام کرنے دیا جا سکے، براہ کرم مندرجہ ذیل اجازتوں کو قبول کریں۔</string>
+    <string name="permission_explanation_sms">ہمیں پیغامات کو پڑھنے کی اجازت چاہئے تاکہ ہم والدین کو انہیں دکھا سکیں۔</string>
+    <string name="permission_explanation_phone_calls">ہمیں فون کالوں کی معلومات حاصل کرنے کی اجازت چاہئے تاکہ ہم والدین کو انہیں دکھا سکیں۔</string>
+    <string name="permission_explanation_settings">بچے کے فون کو قفل کرنے، ایپس کو قفل کرنے اور ان کو انلاک کرنے کیلئے مندرجہ ذیل اجازتیں چاہئیں۔</string>
+    <string name="send_sms_permission">پیغام بھیجنے کی اجازت</string>
+    <string name="read_sms_permission">پیغامات کو پڑھنے کی اجازت</string>
+    <string name="receive_sms_permission">پیغامات کو وصول کرنے کی اجازت</string>
+    <string name="permission_granted">اجازت دی گئی</string>
+    <string name="permission_denied">اجازت منسوخ کردی گئی</string>
+    <string name="send_sms_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کے بھیجے گئے پیغامات دیکھ سکیں</string>
+    <string name="phone_state_permission">فون کی حالت کی اجازت</string>
+    <string name="read_call_log_permission">کال لاگ کو پڑھنے کی اجازت</string>
+    <string name="read_contacts_permission">رابطوں کو پڑھنے کی اجازت</string>
+    <string name="read_sms_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کے پیغامات کو پڑھ سکیں</string>
+    <string name="receive_sms_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کے وصول کردہ پیغامات کو پڑھ سکیں</string>
+    <string name="read_phone_state_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کی کال کی معلومات دیکھ سکیں</string>
+    <string name="read_call_log_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کی کال لاگ کو دیکھ سکیں</string>
+    <string name="read_contacts_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کے رابطوں کے ناموں کو حاصل کریں</string>
+    <string name="location_permission">مقام کی اجازت</string>
+    <string name="write_settings_permission">ترتیبات کو لکھنے کی اجازت</string>
+    <string name="overlay_permission">اوورلے اجازت</string>
+    <string name="package_usage_permission">پیکیج کی استعمال کی اجازت</string>
+    <string name="location_permission_explanation">یہ اجازت ضروری ہے تاکہ آپ اپنے بچے کے مقام کو حاصل کر سکیں</string>
+    <string name="write_settings_permission_explanation">یہ اجازت ضروری ہے تاکہ Parental Watch+ کو دوسری ایپس کو قفل کرنے کی اجازت دی جا سکے</string>
+    <string name="overlay_permission_explanation">یہ اجازت ضروری ہے تاکہ دوسری ایپس کا نظارہ کیا جا سکے</string>
+    <string name="package_usage_permission_explanation">یہ اجازت ضروری ہے تاکہ Parental Watch+ کو آپ کے بچے کی ایپس کی معلومات حاصل کرنے اور اپ لوڈ کرنے کی اجازت دی جا سکے</string>
+    <string name="finish">ختم کریں</string>
+    <string name="device_admin_permission">ڈوائس ایڈمن کی اجازت</string>
+    <string name="please_allow_permissions">براہ کرم تمام اجازتوں کی اجازت دیں تاکہ Parental Watch+ کو صحیح طریقے سے کام کرنے دیا جا سکے</string>
+    <string name="please_allow_location_permission">براہ کرم مقام تک رسائی کی اجازت دیں</string>
+    <string name="password_reset_email_sent">پاسورڈ دوبارہ ترتیب دینے کی ای میل بھیج دی گئی ہے، یہ شاید آپ کی ڈرافٹس میں ہو</string>
+    <string name="name_validation">ایک نام درج کریں جو 15 حروف سے کم ہو</string>
+    <string name="please_add_a_profile_image">براہ کرم ایک پروفائل تصویر شامل کریں</string>
+    <string name="if_he_exceeded_it_you_will_be_alerted">، اگر اس نے اسے تجاوز کیا، آپ کو ہشار دی جائے گی</string>
+    <string name="phone">فون</string>
+    <string name="lock">لاک کریں</string>
+    <string name="now_or_after_a_period">اب یا ایک مدت کے بعد؟</string>
+    <string name="upper_dot_s" translatable="false"> کا</string>
+    <string name="device">ڈوائس</string>
+    <string name="please_enter_a_valid_diameter">براہ کرم ایک درست قطر درج کریں</string>
+    <string name="minutes_ago">منٹ پہلے</string>
+    <string name="unknown_number">نامعلوم نمبر</string>
+    <string name="a_moment_ago">کچھ دیر پہلے</string>
+    <string name="yesterday">کل</string>
+    <string name="deleted_the_app">نے ایپ کو حذف کردیا ہے</string>
+    <string name="contacts">رابطے</string>
+    <string name="messages">پیغامات</string>
+    <string name="calls">کالز</string>
+    <string name="no_messages_received_yet">ابھی تک کوئی پیغامات وصول نہیں ہوئیں</string>
+    <string name="no_calls_received_yet">ابھی تک کوئی کالز وصول نہیں ہوئیں</string>
+    <string name="no_contacts_found">کوئی رابطے نہیں ملے</string>
+    <string name="phone_call_permission_explanation">یہ اجازت ضروری ہے تاکہ آپ مخاطب کو کال کر سکیں</string>
+    <string name="who_will_be_using_this_device">کس کو یہ ڈوائس استعمال کر رہا ہوگا؟</string>
+    <string name="welcome_to">خوش آمدید</string>
+    <string name="parent">والدین</string>
+    <string name="child">بچہ</string>
+    <string name="please_enter_this_child_parent_email">براہ کرم اس بچے کے والدین کی ای میل درج کریں</string>
+    <string name="setup_geo_fence_on">Geo-Fence کو منصوبہ بنائیں</string>
+    <string name="please_download_google_play_services">براہ کرم گوگل پلے سروسز ڈاؤن لوڈ کریں</string>
+    <string name="stop">روکیں</string>
+    <string name="is_out_of_the_fence">حصہ کھول گیا ہے</string>
+    <string name="cant_start_the_fence_without_your_location">براہ کرم اپنی مقام کو فعال کریں، ہم آپ کے آس پاس فنس کو شروع نہیں کر سکتے بغیر اس کے</string>
+    <string name="s_device" translatable="false"> کی ڈوائس</string>
+    <string name="no_location_history_found">کوئی مقام کی تاریخیں نہیں ملی برائے</string>
+    <string name="center">مرکز:</string>
+    <string name="diameter">ڈائیمیٹر:</string>
+    <string name="please_verify">براہ کرم ایک تصدیقی ای میل کے لئے اپنے ان باکس کو دیکھیں۔ ای میل میں دیے گئے لنک پر کلک کر کے اپنی ای میل کی تصدیق کریں</string>
+    <string name="account_verification">اکاؤنٹ کی تصدیق</string>
+    <string name="resend_verification_email">تصدیق کی ای میل دوبارہ بھیجیں</string>
+    <string name="you_re_offline_ncheck_your_connection_and_try_again">آپ آف لائن ہیں \nاپنی کنکشن کی جانچ کریں اور دوبارہ کوشش کریں</string>
+    <string name="connected">منسلک</string>
+    <string name="please_enable_your_gps">براہ کرم اپنے جی پی ایس کو فعال کریں</string>
+    <string name="please_allow_the_following_permissions">براہ کرم مندرجہ ذیل اجازتیں قبول کریں تاکہ Parental Watch+ صحیح طریقے سے کام کر سکے</string>
+    <string name="about_message">Parental Watch+ ایک مفت اور کھلا ماخذ اینڈروائیڈ والدین کے نگرانی کنٹرول ایپ ہے جو والدین کو اپنے بچوں کی گتھجت کو کنٹرول کرنے کی اجازت دیتی ہے۔ Parental Watch+ کو نیچے مخصوص اراکین نے ایک کے سرگرمی کی پروجیکٹ کے طور پر تیار کیا تھا</string>
+    <string name="many_thanks_goes_to_freepik_and_smashiocns_for_the_graphics">شکریہ فری پک ڈاٹ کام اور سمیشی آئیکونز ڈاٹ کام کو گرافکس کے لئے</string>
+    <string name="developers">ڈویلپرز</string>
+    <string name="mahmoud_mansour">محمود منصور</string>
+    <string name="khalid_samir">خالد سمیر</string>
+    <string name="supervisor">سپروائیزر</string>
+    <string name="d_marwa_abbas">ڈاکٹر مروہ عباس</string>
+    <string name="_1_0">1.0</string>
+    <string name="select_app_language">Parental Watch+ کی زبان منتخب کریں</string>
+    <string name="enter_your_old_and_new_passowrd">براہ کرم اپنا پرانا اور نیا پاسورڈ درج کریں</string>
+    <string name="old_password">پرانا پاسورڈ</string>
+    <string name="new_password">نیا پاسورڈ</string>
+    <string name="reenter_new_password">نیا پاسورڈ دوبارہ درج کریں</string>
+    <string name="new_password_doesnt_match">نیا پاسورڈ مماثل نہیں ہوتا</string>
+    <string name="enter_your_password_to_delete_your_account">اپنے اکاؤنٹ کو حذف کرنے کے لئے اپنا پاسورڈ درج کریں</string>
+    <string name="would_you_love_to_add_a_profile_image">کیا آپ ایک پروفائل تصویر شامل کرنا چاہیں گے؟</string>
+    <string name="please_turn_on_the_gps">براہ کرم جی پی ایس کو چالو کریں</string>
+    <string name="blocked" translatable="false">بند کر دیا گیا</string>
+    <string name="will_be_blocked_after" translatable="false">کے بعد بند کر دیا جائے گا</string>
+
+    <string name="enabled" translatable="false">فعال کریں</string>
+    <string name="web" translatable="false">ویب</string>
+    <string name="browser">براؤزر</string>
+    <string name="searchtobrowse">تلاش کریں اور براؤز کریں</string>
+
+
+</resources>

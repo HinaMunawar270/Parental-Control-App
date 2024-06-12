@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776305334337",
+    "firebase_url": "https://parental-watch-p-default-rtdb.firebaseio.com",
+    "project_id": "parental-watch-p",
+    "storage_bucket": "parental-watch-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776305334337:android:895d6ad479afe84c780ec0",
+        "android_client_info": {
+          "package_name": "com.mansourappdevelopment.androidapp.kidsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776305334337-j48i50cfei94voipv99q20uijugi4237.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mansourappdevelopment.androidapp.kidsafe",
+            "certificate_hash": "110079c83a7d3c7c00f766772f47b1ec39be2ce3"
+          }
+        },
+        {
+          "client_id": "776305334337-b3niemnm6uokj0hst9p1bfjvlhs64hio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdNNTleuYL7oa-U3ydhT8kFyx70UDsFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776305334337-b3niemnm6uokj0hst9p1bfjvlhs64hio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
